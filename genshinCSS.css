@@ -1,0 +1,55 @@
+p{
+    color: blue;
+    font-family: arial;
+}
+.skillDetail{
+    color: darkorange;
+}
+
+.Skill{
+    font-weight: bold;
+    color: green;
+}
+h3{
+    background-color: aqua;
+}
+.Tieude{
+    background-image: url(nen.jpg);
+    text-shadow: green 2px 3px;
+
+}
+#buildchar dt{
+    color: blue;
+}
+table, th, td {
+    table-layout:fixed;
+    border: 1px solid black;
+  }
+  td {
+
+    vertical-align: top;
+    padding: 15px;
+    text-align: center;
+  }
+  table {
+    border-spacing: 15px;
+  }
+  #tb1{
+    width: 100%;
+    background-color: #f1f1c1;
+  }
+  #tb1 tr:nth-child(odd) {
+    background-color: #fff;
+   }
+   #t01 tr:nth-child(even) {
+    background-color: #eee;
+  }
+  .elementDame{
+      color: green;
+  }
+  #a123, #a1234{
+    text-align:center
+  }
+  #a12345{
+    text-align: left;
+  }
